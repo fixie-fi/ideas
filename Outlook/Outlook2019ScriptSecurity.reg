@@ -1,0 +1,9 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Outlook\Security]
+"OutlookSecureTempFolder"="C:\\Users\\fixie\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.Outlook\\1VPUFQYL\\"
+"EnableUnsafeClientMailRules"=dword:00000001
+"InitEncrypt"=dword:00000002
+"InitSign"=dword:00000002
+"Level"=dword:00000001
+
